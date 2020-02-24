@@ -1,0 +1,19 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+ Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   WebApplication1.sln
+#	new file:   WebApplication1/Program.cs
+#	new file:   WebApplication1/Properties/launchSettings.json
+#	new file:   WebApplication1/Startup.cs
+#	new file:   WebApplication1/WebApplication1.csproj
+#	new file:   WebApplication1/appsettings.Development.json
+#	new file:   WebApplication1/appsettings.json
+#
